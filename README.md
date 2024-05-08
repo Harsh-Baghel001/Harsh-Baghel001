@@ -2,7 +2,10 @@
 - 👀 I’m interested in Data Exploration
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Join Data Science Communities.
-- 📫 How to reach me https://www.linkedin.com/in/harshbaghel/
+- 📫 How to reach me LinkedIn : https://www.linkedin.com/in/harshbaghel/
+- 📧 Email: baghelharsh001@gmail.com
+- 
+- 
 
 
 <!---
